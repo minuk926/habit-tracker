@@ -1,0 +1,10 @@
+{
+	"extends": "react-app",
+	"rules": {
+		"no-unused-vars": "off",
+		"react-hooks/exhaustive-deps": "off",
+		"no-throw-literal": "off",
+		"no-sequences": "off",
+		"require-yield": "off"
+	}
+}
